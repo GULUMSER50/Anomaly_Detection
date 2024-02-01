@@ -25,8 +25,8 @@ It comprises a total of 768 entries.
 Initially, there is an imbalanced class distribution.
   
   Outcome.value_counts()
-  0    500
-  1    268
+  0:    500
+  1:    268
 
 Data Processing and Cleaning Steps:
 
